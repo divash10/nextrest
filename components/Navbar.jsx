@@ -1,6 +1,6 @@
 import styles from "../styles/Navbar.module.css";
-import Image from 'Next/Image';
-import Link from "next/link";
+import Image from 'Next/image';
+
 
 const Navbar = () => {
   return (
